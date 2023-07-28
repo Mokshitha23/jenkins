@@ -1,0 +1,9 @@
+echo "# jenkins-sonarqube-docker" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Mokshitha23/jenkins-sonarqube-docker.git
+git push -u origin main
+
+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
